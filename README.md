@@ -51,9 +51,7 @@ CURRENT FOCUS
 
 - **GitHub:** https://github.com/nimadevlog
 - **Email:** nima.ebrahmpor@gmail.com
-- **Instagram:** https://instagram.com/nima_devlog
 - **YouTube:** https://youtube.com/@nima_devlog
-- **X:** https://x.com/nima_devlog
 - **Vortex Team:** https://github.com/Vortex-Team0
 - **Vortex Team Instagram:** https://instagram.com/vortex_team0
 
