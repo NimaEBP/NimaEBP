@@ -7,9 +7,7 @@
 «First, solve the problem. Then, write the code.» 
 — John Johnson
 
-[![Instagram](https://img.shields.io/badge/Instagram-nima__devlog-0d1117?style=for-the-badge&logo=instagram&logoColor=a78bfa)](https://instagram.com/nima_devlog)
 [![YouTube](https://img.shields.io/badge/YouTube-@nima__devlog-0d1117?style=for-the-badge&logo=youtube&logoColor=ff0000)](https://youtube.com/@nima_devlog)
-[![X](https://img.shields.io/badge/Twitter-@nima__devlog-0d1117?style=for-the-badge&logo=x&logoColor=c9d1d9)](https://x.com/nima_devlog)
 
 </div>
 
@@ -49,7 +47,7 @@ CURRENT FOCUS
 
 ## Social & Contact
 
-- **GitHub:** https://github.com/nimadevlog
+- **GitHub:** https://github.com/nima_ebp
 - **Email:** nima.ebrahmpor@gmail.com
 - **YouTube:** https://youtube.com/@nima_devlog
 - **Vortex Team:** https://github.com/Vortex-Team0
