@@ -47,7 +47,7 @@ CURRENT FOCUS
 
 ## Social & Contact
 
-- **GitHub:** https://github.com/nima_ebp
+- **GitHub:** https://github.com/NimaEBP
 - **Email:** nima.ebrahmpor@gmail.com
 - **YouTube:** https://youtube.com/@nima_devlog
 - **Vortex Team:** https://github.com/Vortex-Team0
